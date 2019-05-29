@@ -16,3 +16,4 @@ git checkout (NEWBRANCHNAME)	  ( for switching between branches )
 git checkout -b (NEWBRANCHNAME)   ( for creating a new branch and switch to that specific branch ) 
 git branch -d (BRANCH NAME)	  ( delete a specific branch in project )
 git merge (BRANCHNAME THAT WE WANT TO TRANSFER IT TO THIS BRANCH)
+sadsa
