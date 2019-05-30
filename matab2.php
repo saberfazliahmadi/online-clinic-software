@@ -4,5 +4,7 @@ echo
 <br>
 '.time().'
 <br>
-it is version 1' ;
+it is version 1
+<br>
+it is a new section by web editor on cloud repository' ;
 ?>
