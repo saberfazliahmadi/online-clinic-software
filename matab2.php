@@ -1,4 +1,8 @@
 <?php
-echo "This is matab 1.php" ;
-echo "it is version 1" ;
+echo
+'This is matab 1.php
+<br>
+'.time().'
+<br>
+it is version 1' ;
 ?>
