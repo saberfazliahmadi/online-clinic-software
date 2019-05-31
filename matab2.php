@@ -14,6 +14,10 @@ it is a new section by web editor on cloud repository' ;
 class login
 {
   public $user_name = 'saber' ;
+  if($user_name == 'saber')
+  {
+    echo 'yes this is SABER' ;
+  }
 }
 
 $obj = new login ;
