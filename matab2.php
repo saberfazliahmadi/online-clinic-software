@@ -15,6 +15,8 @@ class login
 {
   public $user_name = 'saber' ;
 }
+
 $obj = new login ;
 var_dump($obj) ;
+
 ?>
