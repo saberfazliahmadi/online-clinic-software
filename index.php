@@ -1,3 +1,5 @@
 <?php
-echo "WELCOME TO MATABEONLINE" ; 
+echo '<div style="size:40px;" >
+		WELCOME TO MATABEONLINE
+	 </div>' ; 
 ?>
